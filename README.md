@@ -2,4 +2,4 @@
 This repo contains some examples to learn how some of the C/C++ compile procedure works.
 
 ## Usage
-Each example contains README.md with explanations.
+Each example contains README.txt with explanations.
