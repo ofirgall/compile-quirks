@@ -2,7 +2,9 @@
 This repo contains some examples to learn how some of the C/C++ compile procedure works.
 
 ## Usage
-Each example contains README.txt with explanations.
+* Each quirk contains README.txt with explanations.
+* Each quirk relies on the knowledge from the previous one.
+* The quirks are starting from beginner level to advanced.
 
 
 ## TODO

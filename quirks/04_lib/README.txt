@@ -1,5 +1,3 @@
-5. Library. Compile lib and linkage with that after showing under ref while linkage without the lib.
-Create another lib with the same name but different logic. Show what lib with be used.
 #######################
 
 We have a 2nd function of sum `sum_abs` which using `my_abs` to absolute the numbers.
