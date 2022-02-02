@@ -67,3 +67,5 @@ Now let's compile our files and watch the symbols.
 `gcc main.cpp -c`
 `readelf -s main.o`
 `gcc main.o sum.o c_sum.o`
+
+Note: The same rules applies to global variables which are symbols too.
