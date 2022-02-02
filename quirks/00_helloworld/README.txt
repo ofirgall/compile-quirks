@@ -1,4 +1,12 @@
-### Intro ###
+### Buildsystem vs Compiler ###
+
+Buildsystem isn't a compiler.
+Buildsystem is CMake, Makefile, SCons, that Visual Studio thing, etc.
+
+Buildsystem is generating compiler commands, most build systems will let you `VERBOSE` the commands they are generating.
+
+### The Compiler ###
+
 * From simplification reasons the information might be inaccurate
 
 The "compiler" is divided to 4 steps (tools).
